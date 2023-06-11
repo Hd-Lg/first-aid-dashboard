@@ -1,0 +1,6 @@
+.placeholder {
+  position: absolute;
+  transition: 0.3s;
+  pointer-events: none;
+  transform-origin: top left;
+}
